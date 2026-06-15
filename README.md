@@ -1,18 +1,96 @@
-# Sobre mim
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Isadora%20Palomar&fontSize=50&fontAlignY=35&desc=Estudante%20de%20Programação&descAlignY=55" width="100%"/>
+  
+</div>
 
+---
 
-- 👋 Olá me chamo isadora, sou aluno da rede Estadual do Paraná.
-- 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
-- 🌱 Atualmente estou cursando
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 👩‍💻 Sobre mim
 
-👉 Atualmente em sala estamos estudando
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+Olá! Meu nome é **Isadora** e sou estudante da **Rede Estadual do Paraná**.  
+Estou descobrindo o incrível mundo da programação e cada dia aprendo algo novo!
 
-Qualquer dúvida entre em contato
-<a href="mailto:isadora.palomar@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+🎯 **Meu objetivo:**  
+Aprender linguagens de programação, criar projetos legais e inspirar outros jovens a também se aventurarem nessa área.
+
+---
+
+## 📚 O que estou aprendendo agora
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html,css" />
+  <br>
+  <strong>📖 Cursando atualmente</strong>
+  
+</div>
+
+---
+
+## 🧪 O que estudamos em sala de aula
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=js,github" />
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
+  <br>
+  <strong>👩‍🏫 Aprendendo na prática com a turma</strong>
+  
+</div>
+
+---
+
+## 🚀 Minha jornada até agora
+
+| Ferramenta | Nível de conhecimento |
+|------------|----------------------|
+| HTML5 | 🌱 Iniciante |
+| CSS3 | 🌱 Iniciante |
+| JavaScript | 🌱 Primeiros passos |
+| Scratch | 🟡 Intermediário |
+| GitHub | 🌱 Aprendendo |
+
+> ⭐ *Todo expert um dia foi iniciante. O importante é não parar!*
+
+---
+
+## 📫 Como falar comigo
+
+<div align="center">
+  
+  <a href="mailto:isadora.palomar@escola.pr.gov.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br><br>
+  
+  💡 *Dúvidas ou sugestões? Fique à vontade para me enviar um e-mail!*
+  
+</div>
+
+---
+
+## 🌟 Dica para outros estudantes
+
+> "Programar é como montar um quebra-cabeça: no início parece difícil, mas cada peça encaixada te deixa mais perto do resultado final. Não desista!"
+
+<div align="center">
+  
+  <img src="https://media1.tenor.com/m/524zMVbZ5MYAAAAC/no-nope.gif" width="200" style="border-radius: 15px;" />
+  
+  <br>
+  
+  ✨ **#NuncaPareDeAprender** ✨
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+</div>
 
 ![](https://media1.tenor.com/m/524zMVbZ5MYAAAAC/no-nope.gif)
